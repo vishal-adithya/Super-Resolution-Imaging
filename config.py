@@ -8,3 +8,4 @@ VAL_HR_DIR = "Data/Validation/DIV2K_valid_HR"
 
 BATCH_SIZE = 64
 IMAGE_SIZE = (256,256)
+IMAGE_SIZE_CHL = (256,256,3)
